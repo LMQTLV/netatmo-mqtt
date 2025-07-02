@@ -81,7 +81,7 @@ You need to have a Netatmo developper account to access the API.
   windangle: 75,
   guststrength: 3,
   gustangle: 75,
-  windstrenghtmax: 20,
+  windstrengthmax: 20,
   windanglemax: 45,
   windmaxutc: 1672119306
   id: '02:00:00:00:00:00',
